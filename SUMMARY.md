@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sommaire](README.md)
+* [📚📱📺📻📰🎬](README.md)
 
 ## économie des médias
 
