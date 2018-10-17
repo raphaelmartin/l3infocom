@@ -22,9 +22,9 @@ Objectif: passer d'un thème à une question de départ
 3. construction d'un cadre théorique (concepts)
 4. élaboration d'hypothèses
 
-Notre thématique: les pratiques culturelles.  
+Notre thématique: **les pratiques culturelles**.  
 Une bonne question de départ:
-* Précise. Ni fermée, ni confuse.
-* Réaliste (faisable
-* Visée explicative
-* Possibilité d'y apporter une réponse, pas de question appelant à une réponse toute faite.
+* **Précise**. Ni fermée, ni confuse.
+* **Réaliste** (faisable)
+* Visée **explicative**
+* Possibilité d'y apporter une **réponse**, pas de question appelant à une réponse toute faite.
