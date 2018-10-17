@@ -11,4 +11,5 @@
 
 * [TD1 — Intro : présentation du cours et de la thématique de recherche](sociologie-des-medias/td1-intro-presentation-du-cours-et-de-la-thematique-de-recherche.md)
 * [TD2 — La construction de l’objet de recherche](sociologie-des-medias/td2-la-construction-de-lobjet-de-recherche.md)
+* [TD3 — Entretiens ; enquête par questionnaire](sociologie-des-medias/td3-entretiens-enquete-par-questionnaire.md)
 
