@@ -14,7 +14,7 @@ démarche hypothético-déductive: entre induction et déduction
 
 ## La construction de l'objet de recherche
 
-Objectif: passer d'un thème à une question de départ
+Objectif: passer d'un thème à une question de départ  
 4 étapes:
 
 1. choix de l'objet
@@ -22,7 +22,7 @@ Objectif: passer d'un thème à une question de départ
 3. construction d'un cadre théorique (concepts)
 4. élaboration d'hypothèses
 
-Notre thématique: les pratiques culturelles. 
+Notre thématique: les pratiques culturelles.  
 Une bonne question de départ:
 * Précise. Ni fermée, ni confuse.
 * Réaliste (faisable
