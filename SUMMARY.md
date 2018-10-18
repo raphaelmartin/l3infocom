@@ -9,9 +9,10 @@
 
 ## sociologie des médias
 
-* [TD1 — Intro : présentation du cours et de la thématique de recherche](sociologie-des-medias/td1-intro-presentation-du-cours-et-de-la-thematique-de-recherche.md)
-* [TD2 — La construction de l’objet de recherche](sociologie-des-medias/td2-la-construction-de-lobjet-de-recherche.md)
-* [TD3 — Entretiens ; enquête par questionnaire](sociologie-des-medias/td3-entretiens-enquete-par-questionnaire.md)
+* [Le regard sociologique](sociologie-des-medias/le-regard-sociologique/README.md)
+  * [TD1 — Intro : présentation du cours et de la thématique de recherche](sociologie-des-medias/le-regard-sociologique/td1-intro-presentation-du-cours-et-de-la-thematique-de-recherche.md)
+  * [TD2 — La construction de l’objet de recherche](sociologie-des-medias/le-regard-sociologique/td2-la-construction-de-lobjet-de-recherche.md)
+  * [TD3 — Entretiens ; enquête par questionnaire](sociologie-des-medias/le-regard-sociologique/td3-entretiens-enquete-par-questionnaire.md)
 
 ## histoire des médias
 
