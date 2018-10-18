@@ -29,8 +29,5 @@ Une bonne question de départ:
 * Possibilité d'y apporter une **réponse**, pas de question appelant à une réponse toute faite.
 
 ## "Choisir un thème et un terrain", _in_ "Guide de l'enquête de terrain" — BEAUD/WEBER
-
-## "Les techniques d'enquête en sociologie", _in_ "Apprendre la sociologie par l'exemple" — GIRAUD
-
 ## "La question de départ", "L'exploration", _in_ Manuel de recherche en sciences sociales — CAMPENHOUDT
-
+## "Les techniques d'enquête en sociologie", _in_ "Apprendre la sociologie par l'exemple" — GIRAUD
