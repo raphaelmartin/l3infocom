@@ -1,31 +1,20 @@
 # Le regard sociologique
 
-Séquence 1 \(6h – 2 séances\) Le regard sociologique
+## Qu’est-ce que la sociologie et à quoi peut-elle bien servir ?
 
-1\) Qu’est-ce que la sociologie et à quoi peut-elle bien servir ?
-
-a\) La sociologie comme voyage dans le monde social
-
-b\) La sociologie comme science : « lutter contre les illusions de la connaissance immédiate » \(Bachelard\)
-
-c\) Cinq ficelles du métier de sociologue pour une exigence de scientificite  
+### La sociologie comme voyage dans le monde social
+### La sociologie comme science : « lutter contre les illusions de la connaissance immédiate » \(Bachelard\)
+### 5 ficelles du métier de sociologue pour une exigence de scientificite  
 Terrain & méthodes ; réflexivité ; historicisation ; objectivation & « neutralité axiologique » ; déterminations
+### Les enjeux démocratiques de la sociologie
+### La sociologie pour un étudiant de l’IFP
 
-d\) Les enjeux démocratiques de la sociologie
+## Le paysage de la sociologie
 
-e\) La sociologie pour un étudiant de l’IFP
+### A propos de la structuration de l’espace de la sociologie
+### Multilevel analysis
+### L’individu, le collectif et le « social incorporé »
+### Pour une sociologie dispositionnelle et relationnelle
 
-2\) Le paysage de la sociologie
-
-a\) A propos de la structuration de l’espace de la sociologie
-
-b\) Multilevel analysis
-
-c\) L’individu, le collectif et le « social incorporé »
-
-d\) Pour une sociologie dispositionnelle et relationnelle
-
-Définitions du jour: socialisation & habitus
-
-> Muriel Darmon, La socialisation, Paris, Armand colin, 2006
-
+Définitions du jour: **socialisation** & **habitus**
+* _Muriel Darmon_, "La socialisation", Paris, Armand Colin, 2006
