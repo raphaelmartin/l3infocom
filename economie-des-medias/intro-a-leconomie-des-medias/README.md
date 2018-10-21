@@ -1,6 +1,6 @@
 # Intro à l'économie des médias
 
-## Internetet et les transformations du marché de l’information
+## Internet et et les transformations du marché de l’information
 
 ### l'ouverture a de nouveaux producteurs
 
@@ -51,7 +51,7 @@ Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic av
 
 Facebook impose une bulle de filtre, et censure les fake news, mais quelle en est sa définition? Dérive à prévoir. Qui doit prendre l'initiative du fact-checking? Journalistes ou société civile?
 
-### Conclusion : un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
+### un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
 
 = c'est l'espace intellectuel au sein duquel se diffuse les produits qui informent notre vision du monde.  
 Google c'est un supermarché avec des étalages, n'importe qui pouvant produire son propre produit cognitif.
@@ -61,3 +61,38 @@ Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes
 * Google et les produits cognitifs
 * les ressorts psychologiques de la production d'info en ligne
 * visibilité et évaluation collective des informations
+
+### Pourquoi s'intéresser à l'économie des médias?
+
+* approche spécifique pour aborder les médias (interactions entre acteurs de marché, étude de normes, dispositifs tech...).
+* poids économiste modeste des médias, mais influence considérable sur les marchés
+
+### C'est quoi un média?
+
+1. une organisation
+2. un marché
+3. une histoire
+4. un symbole
+5. un statut juridique
+6. une activité sociale
+
+### Que produit un média?
+
+* bien exclusif/non exclusif
+* bien rival/non rival
+* bien privé / semi-public / commun / public
+* bien sous tutelle
+* bien éphémère
+* bien identitaire
+* bien d'expérience
+
+### La structuration du marché des médias
+
+* coûts fixes importants
+* coûts variables faibles
+* économies d'échelle
+
+Ce qui coûte à un magazine, c'est la distribution (40% du CA) et la fabrication (20%)
+
+* diminution des ventes => pression sur la maîtrise des coûts, externalisation du rédactionnel, explosion des piges
+* marché biface : la spirale de Furhoff
