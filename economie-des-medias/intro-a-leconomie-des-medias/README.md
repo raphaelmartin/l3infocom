@@ -61,4 +61,3 @@ Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes
 * Google et les produits cognitifs
 * les ressorts psychologiques de la production d'info en ligne
 * visibilité et évaluation collective des informations
-
