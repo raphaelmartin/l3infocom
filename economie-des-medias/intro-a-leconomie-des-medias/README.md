@@ -14,7 +14,7 @@ Internet a provoqué une baisse de l'influence des gatekeepers \(journalistes, �
 
 Sur Internet, tout le monde peut faire entendre sa voix \(pluralisme radical\) contrairement aux médias tradis qui gomment toute opinion minoritaire car basé sur le principe majoritaire.
 
-### L'émergence des « infomédiaires »
+### L'émergence des « infomédiaires »
 
 Offre abondante / demande individualisée. Médias et intermédiaires en "coopétition".
 
