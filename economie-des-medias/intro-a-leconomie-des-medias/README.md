@@ -1,6 +1,6 @@
 # Intro à l'économie des médias
 
-## Internet et et les transformations du marché de l’information
+## Internet et et les transformations du marché de l’information
 
 ### l'ouverture a de nouveaux producteurs
 
@@ -29,22 +29,25 @@ Relations conflictuelles entre pouv. publics/médias/GAFA
 ### Le rôle des internautes dans la diffusion des infos
 
 Sur Internet, en plus des pôles de production et de réception, il y a le pôle du partage, notamment sur les R.S.  
-Les algorithmes de recommendations font courir le risque d'une balkanisation du débat public en enfermant chacun dans sa bulle idéologique
+Les algorithmes de recommandations font courir le risque d'une balkanisation du débat public en enfermant chacun dans sa bulle idéologique
 
 ### Résumé
 
 * ouverture à de nvx producteurs, marché pluraliste
 * fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
 * diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\)
-* la perte d'influence des pouvoirs publics sur la régulation de l'info. Nouvelles lois dangereuses (loi fake news), risque de délégation des pouvoirs de censure.
+* la perte d'influence des pouvoirs publics sur la régulation de l'info. Nouvelles lois dangereuses \(loi fake news\), risque de délégation des pouvoirs de censure.
 * entre production et réception, un nouveau pôle: le partage.
 * Personnalisation et segmentation du marché
 
-### Le modèle économique des "fake-news"
+### Le modèle économique des "fake news"
 
-Notion du "trouble informationnel".  
+Notion du "trouble informationnel"  
 C'est un contenu "engageant"  
-La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias. Rôle du "marketing ciblé"
+La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.
+
+Rôle du "marketing ciblé"
+
 Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic avec le profilage, ciblage\).
 
 ### Notion d'enfermement idéologique sur les réseaux sociaux
@@ -64,7 +67,7 @@ Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes
 
 ### Pourquoi s'intéresser à l'économie des médias?
 
-* approche spécifique pour aborder les médias (interactions entre acteurs de marché, étude de normes, dispositifs tech...).
+* approche spécifique pour aborder les médias \(interactions entre acteurs de marché, étude de normes, dispositifs tech...\).
 * poids économiste modeste des médias, mais influence considérable sur les marchés
 
 ### C'est quoi un média?
@@ -92,25 +95,20 @@ Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes
 * coûts variables faibles
 * économies d'échelle
 
-Ce qui coûte à un magazine, c'est la distribution (40% du CA) et la fabrication (20%)
+Ce qui coûte à un magazine, c'est la distribution \(40% du CA\) et la fabrication \(20%\)
 
-* diminution des ventes => pression sur la maîtrise des coûts, externalisation du rédactionnel, explosion des piges
+* diminution des ventes =&gt; pression sur la maîtrise des coûts, externalisation du rédactionnel, explosion des piges
 * marché biface : la **spirale de Furhoff**
 
-3 **critères**:
-1. nature du produit
-2. périodocité
-3. localisation
+3 **critères**: 1. nature du produit 2. périodocité 3. localisation
 
-3 **sources de revenu**:
-1. ventes et abo
-2. pub
-3. aides publiques
+3 **sources de revenu**: 1. ventes et abo 2. pub 3. aides publiques
 
-mutation du marché de la publicité: la part d'Internet augmente, la part de la presse diminue.
-**concentration des médias**: rationalisation des coûts, danger pour le pluralisme et l'indépendance des médias
+mutation du marché de la publicité: la part d'Internet augmente, la part de la presse diminue. **concentration des médias**: rationalisation des coûts, danger pour le pluralisme et l'indépendance des médias
 
 Pour résumer, le marché des médias est...
+
 * un marché biface
 * un marché fortement différencié
 * une structuration des coûts caractérisée par de fortes économies d'échelle
+
