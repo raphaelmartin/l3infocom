@@ -1,4 +1,4 @@
-# TD4 — L’ethnographie et l’analyse de contenu
+# TD4 — L’ethnographie ; l’analyse de contenu
 
 ➢  Présentation de la méthode ethnographique \(observation directe et observation participante\) et de l’analyse de contenu
 
@@ -7,4 +7,6 @@
 A lire pour la prochaine séance​ :
 
 * _PASQUIER Dominique_, « La ‘culture populaire’ à l'épreuve des débats sociologiques », ​Hermès,​ n° 42, 2005, p. 60-69.
+
+## "Choisir un thème et un terrain", _in_ "Guide de l'enquête de terrain" — BEAUD/WEBER
 
