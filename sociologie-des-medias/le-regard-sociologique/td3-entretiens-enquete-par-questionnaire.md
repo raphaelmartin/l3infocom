@@ -15,5 +15,7 @@ représentativité \(questionnaire\) &gt; significativité \(entretien\). Cas si
 
 > "l'universel à chercher dans le particulier" — Goffman
 
-### BOURDIEU Pierre, « Vous avez dit "populaire" ? », Actes de la recherche en sciences sociales, n° 46, 1983, p. 98-105.
+## BOURDIEU Pierre, « Vous avez dit "populaire" ? », Actes de la recherche en sciences sociales, n° 46, 1983, p. 98-105.
+
+## "La question de départ", "L'exploration", _in_ Manuel de recherche en sciences sociales — CAMPENHOUDT
 
