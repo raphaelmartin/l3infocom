@@ -17,5 +17,6 @@
 
 ## histoire des médias
 
-* [TD1](histoire-des-medias/td1.md)
+* [TD1 — l'histoire des médias en France](histoire-des-medias/td1.md)
+* [TD2 — Le crime passionnel dans la presse](histoire-des-medias/td2-le-crime-passionnel-dans-la-presse.md)
 
