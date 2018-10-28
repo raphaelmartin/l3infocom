@@ -1,28 +1,28 @@
-# Intro à l'économie des médias
+# Internet et les transformations du marché de l'info
 
-## Internet et et les transformations du marché de l’information
+## Internet et le marché de l'information
 
-### l'ouverture a de nouveaux producteurs
+### L'ouverture a de nouveaux producteurs
 
-Internet a permis une ouverture du marché de l'info &gt; modèle de communication "tous à tous" \(avant, "un à tous"\) &gt; ouverture, pluralisme. Le web 2.0 a laisser émerger des "sans voix" dans le débat public.
+Internet a permis une ouverture du marché de l'info =&gt; émergence du web 2.0 \(web dynamique qui favorise les UGC\) avec les blogs, réseaux sociaux, médias alt : irruption de "sans voix" dans le débat public.
 
-### la fin des gatekeepers tradis...mais pas du gatekeeping
+### La fin des gatekeepers tradis...mais pas du gatekeeping
 
 Internet a provoqué une baisse de l'influence des gatekeepers \(journalistes, éditeurs, producteurs : ceux qui filtre le marché de l'info\). Cette fonction est tjr présente mais elle a basculé vers les moteurs de recherche, les réseaux sociaux. Avant le défi était d'être public, maintenant il faut "être visible". Le filtre que sont les algorithmes Google/FB ont remplacé le filtre journalistique. Avant, contrôle **a priori** de l'info \(le gatekeeper la rend publique\), maintenant contrôle **a posteriori** de l'info \(le gatekeeper la rend visible\). Base de l'économie de l'attention sur Internet.
 
-### La "libération des subjectivités" \(Cardon\)
+### La "libération des subjectivités" \(Cardon, 2010\)
 
 Sur Internet, tout le monde peut faire entendre sa voix \(pluralisme radical\) contrairement aux médias tradis qui gomment toute opinion minoritaire car basé sur le principe majoritaire.
 
 ### L'émergence des « infomédiaires »
 
-Offre abondante / demande individualisée. Médias et intermédiaires en "coopétition".
+Organise la rencontre entre: offre abondante / demande individualisée. Médias et intermédiaires en "coopétition" car la valeur se déplace de la production vers l'intermédiation
 
 ### La redistribution des pouvoirs de régulation
 
-Avec les médias tradis, bien que la démocratie soit présente, l'état conserve des leviers d'influence : allocation des canaux de diffusion, financement par les aides, réglementation stricte.
+Avec les médias tradis, bien que la démocratie soit présente, l'Etat conserve des leviers d'influences : allocation des canaux de diffusion, financement par les aides, réglementation stricte.
 
-Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, souvent hebergé dans des territoires qui ne répondent pas du droit FR.
+Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, souvent hébergé dans des territoires qui ne répondent pas du droit FR.
 
 Relations conflictuelles entre pouv. publics/médias/GAFA
 

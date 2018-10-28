@@ -4,7 +4,7 @@
 
 ## économie des médias
 
-* [Intro à l'économie des médias](economie-des-medias/intro-a-leconomie-des-medias/README.md)
+* [Internet et les transformations du marché de l'info](economie-des-medias/intro-a-leconomie-des-medias/README.md)
   * [TD1 — intro](economie-des-medias/intro-a-leconomie-des-medias/td1-intro.md)
 
 ## sociologie des médias
