@@ -4,3 +4,5 @@ Réf.: _Anne-Claude AMBROISE RENDU_ — « Le fait divers de la fin du XIXème 
 
 _Jean-François TANGUY_ — « Un crime passionnel dans la bourgeoisie provinciale à la Belle Epoque : l’affaire Berthe Leclair », Annales de Bretagne et des Pays de l’Ouest, vol. 1, n°116, 2009
 
+**Newseum**, qui héberge les Unes de journaux internationaux : [http://www.newseum.org/](http://www.newseum.org/)
+
