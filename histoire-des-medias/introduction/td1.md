@@ -1,6 +1,6 @@
 # TD1 — l'histoire des médias en France
 
-![The only survivors of 150 Polish people who walked from Lodz, Poland to Berlin Huddle in blankets, on December 14, 1945. They are waiting by a railway track hoping to be picked up by a British army train and given help. Photo colorization by Sanna Dullaway for TIME / original image: Getty Images](../.gitbook/assets/gettyimages-3362692-color.jpg)
+![The only survivors of 150 Polish people who walked from Lodz, Poland to Berlin Huddle in blankets, on December 14, 1945. They are waiting by a railway track hoping to be picked up by a British army train and given help. Photo colorization by Sanna Dullaway for TIME / original image: Getty Images](../../.gitbook/assets/gettyimages-3362692-color.jpg)
 
 ## Caractéristiques de la méthode historique
 

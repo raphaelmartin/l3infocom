@@ -19,7 +19,12 @@
 
 ## histoire des médias
 
-* [TD1 — l'histoire des médias en France](histoire-des-medias/td1.md)
-* [TD2 — Le crime passionnel dans la presse](histoire-des-medias/td2-le-crime-passionnel-dans-la-presse.md)
-* [TD3 — Les femmes tondues](histoire-des-medias/td3-les-femmes-tondues.md)
+* [Introduction](histoire-des-medias/introduction/README.md)
+  * [TD1 — l'histoire des médias en France](histoire-des-medias/introduction/td1.md)
+* [Les médias sous la Révolution française](histoire-des-medias/les-medias-sous-la-revolution-franc-aise/README.md)
+  * [TD2 — Le crime passionnel dans la presse](histoire-des-medias/les-medias-sous-la-revolution-franc-aise/td2-le-crime-passionnel-dans-la-presse.md)
+* [La presse de la Restauration à la République](histoire-des-medias/la-presse-de-la-restauration-a-la-republique/README.md)
+  * [TD3 — Les femmes tondues](histoire-des-medias/la-presse-de-la-restauration-a-la-republique/td3-les-femmes-tondues.md)
+* [La démocratisation de la presse de 1848 à la fin du Second Empire](histoire-des-medias/la-democratisation-de-la-presse-de-1848-a-la-fin-du-second-empire.md)
+* [L’âge d’or de la presse](histoire-des-medias/la-ge-dor-de-la-presse.md)
 
