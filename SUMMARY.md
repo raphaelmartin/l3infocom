@@ -21,4 +21,5 @@
 
 * [TD1 — l'histoire des médias en France](histoire-des-medias/td1.md)
 * [TD2 — Le crime passionnel dans la presse](histoire-des-medias/td2-le-crime-passionnel-dans-la-presse.md)
+* [TD3 — Les femmes tondues](histoire-des-medias/td3-les-femmes-tondues.md)
 
