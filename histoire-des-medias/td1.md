@@ -1,5 +1,7 @@
 # TD1 — l'histoire des médias en France
 
+![The only survivors of 150 Polish people who walked from Lodz, Poland to Berlin Huddle in blankets, on December 14, 1945. They are waiting by a railway track hoping to be picked up by a British army train and given help. Photo colorization by Sanna Dullaway for TIME / original image: Getty Images](../.gitbook/assets/gettyimages-3362692-color.jpg)
+
 ## Caractéristiques de la méthode historique
 
 L'histoire, c'est une connaissance des évènements passés. On parle d'un récit, avec une trame narrative. Ce ne sont donc jamais des faits à l'état brut, mais une narration autour d’événements. Agencement des faits significatifs suggérant une interprétation. Pourquoi raconter cela de cette manière et pas autrement?
