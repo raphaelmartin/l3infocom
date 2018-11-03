@@ -8,6 +8,7 @@
   * [TD1 — intro](economie-des-medias/intro-a-leconomie-des-medias/td1-intro.md)
 * [Intro à l'économie des médias](economie-des-medias/intro-a-leconomie-des-medias-1.md)
 * [TD5 — Les marchés des médias à l'ère du numérique](economie-des-medias/td5-les-marches-des-medias-a-lere-du-numerique.md)
+* [Les grands concepts de l’économie numérique](economie-des-medias/les-grands-concepts-de-leconomie-numerique.md)
 
 ## sociologie des médias
 
