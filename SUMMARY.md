@@ -10,7 +10,7 @@
 * [TD1 — intro](economie-des-medias/td1-intro/README.md)
   * [TD5 — Les marchés des médias à l'ère du numérique](economie-des-medias/td1-intro/td5-les-marches-des-medias-a-lere-du-numerique.md)
   * [TD8 — La télévision](economie-des-medias/td1-intro/td8-la-television.md)
-* [TD9 — La publicité](economie-des-medias/td9-la-publicite.md)
+  * [TD9 — La publicité](economie-des-medias/td1-intro/td9-la-publicite.md)
 
 ## sociologie des médias
 
