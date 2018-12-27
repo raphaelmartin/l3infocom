@@ -79,7 +79,11 @@ Pb: exhaustivité, classement...
 
 Champ d'étude récent car réticence des historiens à voir les médias comme objet d'étude.
 
-### Où en est l'histoire des médias — Christian Delporte
+### DELPORTE, Christian — _Où en est l'histoire des médias_, 2006
+
+Comment expliquer le retard des historiens, et des français, a considérer les médias comme authentique objet d'observation? \(en France depuis mi-90'\).
+
+⇒ prévention à l'égard d'outils nouveaux au statut incertain ; l'embarras face au son/image ; mais plus encore des circonstances dans lesquelles l'histoire des médias s'est affirmé.
 
 ### L’apport de l’histoire des médias à l’étude des langages du politique — Claire Blandin
 
