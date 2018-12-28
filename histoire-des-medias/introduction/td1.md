@@ -81,7 +81,7 @@ Champ d'étude récent car réticence des historiens à voir les médias comme o
 
 ### DELPORTE, Christian — _Où en est l'histoire des médias_, 2006
 
-Comment expliquer le retard des historiens, et des français, a considérer les médias comme authentique objet d'observation? \(en France depuis mi-90'\).
+_Comment expliquer le retard des historiens, et des français, a considérer les médias comme authentique objet d'observation?_ \(en France depuis mi-90'\).
 
 ⇒ prévention à l'égard d'outils nouveaux au statut incertain ; l'embarras face au son/image ; mais plus encore des circonstances dans lesquelles l'histoire des médias s'est affirmée.
 
@@ -91,11 +91,15 @@ Comment expliquer le retard des historiens, et des français, a considérer les 
 
 **90s**: En se bornant à isoler le discours en l'éclairant à la lumière du contexte politique, avait-on bien posé le pb? Des historiens repensent les "médias" non comme source mais objet d'étude, non comme instrument de mesure d'opinion mais comme "outil d'analyse des représentations collectives et des imaginaires sociaux". Ajout d'un volet social, économique, et culturel.
 
-Mais l'histoire _des_ médias se suffit-t-elle à la juxtaposition des vecteurs de messages? Confusion FR: médias = médias d'information ⇒ cloisonnement des études, paysage éclaté par vecteurs.
+Mais l'histoire _des_ médias se suffit-elle à la juxtaposition des vecteurs de messages? Confusion FR: médias = médias d'information ⇒ cloisonnement des études, paysage éclaté par vecteurs.
 
 Concept de **culture médiatique**: "_Considérer le champ des médias comme un système de représentations nourri par des supports divers, concurrentiels, complémentaires, en constante mutation, bâtis à partir d'écrit, de son, d'image, ancrés dans la perception du réel comme dans la création fictionnelle_". 
 
-### L’apport de l’histoire des médias à l’étude des langages du politique — Claire Blandin
+### BLANDIN, Claire — _L’apport de l’histoire des médias à l’étude des langages du politique_
+
+Bilan historiographique: comment l'histoire des médias, en 30 ans, a évolué? En quoi a-t-elle contribué à l'étude des langages du politique?
+
+Trois stades, triple décennie: héritage de l'histoire politique \(80s\) &gt; constitution d'un champ autonome \(90s\) &gt; affirmation dans la communauté historienne \(00s\)
 
 ### Le travail de l’historien — Pierre BONNECHERE, "profession historien", Presses de l’université de Montréal, 2008
 
