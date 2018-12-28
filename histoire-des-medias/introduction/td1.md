@@ -83,15 +83,17 @@ Champ d'étude récent car réticence des historiens à voir les médias comme o
 
 Comment expliquer le retard des historiens, et des français, a considérer les médias comme authentique objet d'observation? \(en France depuis mi-90'\).
 
-⇒ prévention à l'égard d'outils nouveaux au statut incertain ; l'embarras face au son/image ; mais plus encore des circonstances dans lesquelles l'histoire des médias s'est affirmé.
+⇒ prévention à l'égard d'outils nouveaux au statut incertain ; l'embarras face au son/image ; mais plus encore des circonstances dans lesquelles l'histoire des médias s'est affirmée.
 
-**60s:** L'histoire de la presse s'est bâti dans l'ombre de l'histoire politique qui se redécouvrait via la notion d'opinion publique, et donc, du rôle de la presse écrite dans l'espace politique \(journaux utilisés comme sources\).Mais se bute à une question jamais formulée: la presse influence-t-elle l'opinion publique?
+**60s:** L'histoire de la presse s'est bâti dans l'ombre de l'histoire politique qui se redécouvrait via la notion d'opinion publique, et donc, du rôle de la presse écrite dans l'espace politique \(journaux utilisés comme sources\).Mais ces recherches monographiques se butaient à une question jamais formulée: la presse influence-t-elle l'opinion publique?
 
 **80s**: le questionnement s'est déplacé vers les médias plus contemporains: radio et TV. Mais l'interrogation restait d'ordre politique, à la question de la relation entre info-opinion s'est substituée celle du contrôle de l'information par le pouvoir.
 
 **90s**: En se bornant à isoler le discours en l'éclairant à la lumière du contexte politique, avait-on bien posé le pb? Des historiens repensent les "médias" non comme source mais objet d'étude, non comme instrument de mesure d'opinion mais comme "outil d'analyse des représentations collectives et des imaginaires sociaux". Ajout d'un volet social, économique, et culturel.
 
-Mais l'histoire _des_ médias se suffit-t-elle à la juxtaposition des vecteurs de messages?
+Mais l'histoire _des_ médias se suffit-t-elle à la juxtaposition des vecteurs de messages? Confusion FR: médias = médias d'information ⇒ cloisonnement des études, paysage éclaté par vecteurs.
+
+Concept de **culture médiatique**: "_Considérer le champ des médias comme un système de représentations nourri par des supports divers, concurrentiels, complémentaires, en constante mutation, bâtis à partir d'écrit, de son, d'image, ancrés dans la perception du réel comme dans la création fictionnelle_". 
 
 ### L’apport de l’histoire des médias à l’étude des langages du politique — Claire Blandin
 
