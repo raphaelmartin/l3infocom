@@ -23,7 +23,27 @@ La vision du temps change au XIXème siècle, ce n'est plus le temps de la résu
 
 #### Médias
 
+Moyen/support/outil pour faire circuler l'information, une représentation. On pense matériel, mais le 1er média est la parole \(la rumeur comme système de communication\). Circule dans l'ESPACE: broadcast. Bassin de réception + ou - large : agence de presse / presse régionale \(CNN/La Montagne\). Transporter l'info dans le TEMPS: média comme système de mémoire, conservation des infos.
 
+Les médias sont des moyens, supports, systèmes d'organisation qui ont pour vocation de diffuser des informations et des représentations dans l'espace et dans le temps.
 
+On passe du **broadcasting** \(=couverture large\) au **podcasting** \(=transmission unitaire, téléchargement à la demande.
 
+### Délimitation du sujet
+
+2 limites géo/temp: en France / depuis la Révolution française.
+
+APPADURAI, prof indien: "on ne peut plus travailler sur les sciences sociales sans penser à la globalité, à la mondialisation"
+
+### La problématique
+
+Essayer de penser le temps des médias démocratiques. Comment ont fonctionné les médias pour favoriser l’avènement de la démocratie, comment parfois ils ont été mis au service de dictature et au fond quelles conditions sont nécessaires à leur libre exercice? Politique \(la censure\), comme économique \( on peut s’interroger sur le système modèle d’affaires des médias\).
+
+Qui produit les médias ? A qui sont-ils destinés ? Quel rapport ils entretiennent avec le pouvoir ? Dans quelles mesures pèsent-ils sur l'évolution des sociétés?
+
+### Le plan
+
+1. La quête de l’autonomie \(Révolution, Empire, Restauration, Monarchie de juillet, Second Empire\)
+2. L’âge d’or des médias \(1re G.M, l'entre-deux guerres 2nd G.M\)
+3. Le monde contemporain \(ses transformations structurelles\)
 
