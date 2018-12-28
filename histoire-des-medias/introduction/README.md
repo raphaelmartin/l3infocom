@@ -37,13 +37,13 @@ _APPADURAI_, prof indien: "on ne peut plus travailler sur les sciences sociales 
 
 ### La problématique
 
-Essayer de penser le temps des médias démocratiques. Comment ont fonctionné les médias pour favoriser l’avènement de la démocratie, comment parfois ils ont été mis au service de dictature et au fond quelles conditions sont nécessaires à leur libre exercice? Politique \(la censure\), comme économique \( on peut s’interroger sur le système modèle d’affaires des médias\).
+Essayer de penser le temps des médias démocratiques. Comment ont fonctionné les médias pour favoriser l’avènement de la démocratie, comment parfois ils ont été mis au service de dictature et au fond quelles conditions sont nécessaires à leur libre exercice? Politique \(la censure\), comme économique \(on peut s’interroger sur le système modèle d’affaires des médias\).
 
-Qui produit les médias ? A qui sont-ils destinés ? Quel rapport ils entretiennent avec le pouvoir ? Dans quelles mesures pèsent-ils sur l'évolution des sociétés?
+Qui produit les médias? A qui sont-ils destinés? Quel rapport ils entretiennent avec le pouvoir? Dans quelles mesures pèsent-ils sur l'évolution des sociétés?
 
 ### Le plan
 
-1. La quête de l’autonomie \(Révolution, Empire, Restauration, Monarchie de juillet, Second Empire\)
-2. L’âge d’or des médias \(1re G.M, l'entre-deux guerres 2nd G.M\)
-3. Le monde contemporain \(ses transformations structurelles\)
+1. **La quête de l’autonomie** \(Révolution, Empire, Restauration, Monarchie de juillet, Second Empire\)
+2. **L’âge d’or des médias** \(1re G.M, l'entre-deux guerres 2nd G.M\)
+3. **Le monde contemporain** \(ses transformations structurelles\)
 
