@@ -75,7 +75,7 @@ Pb: exhaustivité, classement...
 1. Comment les médias racontent l'histoire? La fabriquent? \(raconte l'evnmt de telle manière\)
 2. Quelles relations de pouvoir, sociale, culturelles animent les médias à une époque donnée?
 
-## L'histoire des médias en France
+### L'histoire des médias en France
 
 Champ d'étude récent car réticence des historiens à voir les médias comme objet d'étude.
 
