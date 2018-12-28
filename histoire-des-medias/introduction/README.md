@@ -13,9 +13,9 @@ Quels facteurs peuvent influencer les médias, redonner de la profondeur pour c
 
 #### Histoire
 
-L'étude du passé. Prise en compte du temps, dimension essentielle de la transformation des sociétés. **Positivisme**: Auguste Comte. Physique sociale. On passe de l'âge de la croyance à la rationalisation du monde.
+L'étude du passé. Prise en compte du temps, dimension essentielle de la transformation des sociétés. **Positivisme**: Auguste COMTE. Physique sociale. On passe de l'âge de la croyance à la rationalisation du monde.
 
-Benoît _CROCE_: "Toute histoire est présente"  
+Benoît _CROCE_: "Toute histoire est contemporaine"  
 Arlette _FARGE_: "Je fais de l'histoire, je ne raconte pas _des_ histoires"  
 _BAECQUE_: "Le cinéma fait l'histoire"
 
@@ -33,7 +33,7 @@ On passe du **broadcasting** \(=couverture large\) au **podcasting** \(=transmis
 
 2 limites géo/temp: en France / depuis la Révolution française.
 
-APPADURAI, prof indien: "on ne peut plus travailler sur les sciences sociales sans penser à la globalité, à la mondialisation"
+_APPADURAI_, prof indien: "on ne peut plus travailler sur les sciences sociales sans penser à la globalité, à la mondialisation"
 
 ### La problématique
 
