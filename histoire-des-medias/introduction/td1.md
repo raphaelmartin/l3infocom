@@ -101,5 +101,16 @@ Bilan historiographique: comment l'histoire des médias, en 30 ans, a évolué? 
 
 Trois stades, triple décennie: héritage de l'histoire politique \(80s\) &gt; constitution d'un champ autonome \(90s\) &gt; affirmation dans la communauté historienne \(00s\)
 
+Pour Balle, l'étude des médias commence en 30 par un questionnement politique \(sur la propagande\). Mise en cause du pouvoir des médias / discours sur les vocations qui doivent être assignées aux moyens de com.
+
+90s: temps de la définition du champ de l'étude des médias. Marquée par 2 ouvrages:
+
+1. JEANNENEY, Une histoire des médias, 1996
+2. COLL., L'écho du siècle. S'intéresse au paysage audiovisuel en lien avec l'utilisation qu'en ont fait les hommes politiques. R.REMOND: l'influence de la TV sur la destinée politique des pays...
+
+Se frotte plus généralement aux problématique en vogue dans l'historiographie, ce qui apporte un nouveau regard sur la vie politique.
+
+L'histoire des médias privilégie une approche large articulant l'analyse des contenus et les études sur la transmission, la circulation et la réception. Par rapport aux travaux spécialisés portant sur l'un ou l'autre support, HdM met l'accent sur des phénomènes de convergence et de croisement médiatique en insistant sur leur fonction sociale et économique, ainsi que sur les représentation collectives qu'ils contribuent à échafauder. Les médias ≠ simple reflet des réalités sociales, mais contribuent à forger l'identité des groupes, nourrir leurs dynamiques, peser sur leurs transformations.
+
 ### Le travail de l’historien — Pierre BONNECHERE, "profession historien", Presses de l’université de Montréal, 2008
 
