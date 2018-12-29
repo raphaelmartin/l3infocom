@@ -30,4 +30,6 @@
   * [TD3 — Les femmes tondues](histoire-des-medias/la-presse-de-la-restauration-a-la-republique/td3-les-femmes-tondues.md)
 * [La démocratisation de la presse de 1848 à la fin du Second Empire](histoire-des-medias/la-democratisation-de-la-presse-de-1848-a-la-fin-du-second-empire.md)
 * [L’âge d’or de la presse](histoire-des-medias/la-ge-dor-de-la-presse.md)
+* [La 1ère guerre mondiale](histoire-des-medias/la-1ere-guerre-mondiale.md)
+* [L'entre-deux guerre](histoire-des-medias/lentre-deux-guerre.md)
 
