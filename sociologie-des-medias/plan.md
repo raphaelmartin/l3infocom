@@ -1,7 +1,5 @@
 # Plan
 
-L3 - sociologie des médias - Plan&Bilblio - JB COMBY 2018
-
 * Pierre Bourdieu, Choses Dites, Paris, Editions de Minuit, 1997\*
 * Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, Histoire politique et économique des médias en France, Paris, La découverte, Coll. Repères, 2009.
 * Daniel Dayan, « Les mystères de la réception », Le débat, 1992, n° 71, pp.146-162\*\*
@@ -11,23 +9,23 @@ L3 - sociologie des médias - Plan&Bilblio - JB COMBY 2018
 * Rémy Rieffel, Que sont les médias ?, Paris, Gallimard, 2005\*
 * Brigitte Le Grignou et Erik Neveu, Sociologie de la Télévision, La découverte, Paris, 2017
 
-Séquence 1 \(6h – 2 séances\) : Le regard sociologique
+### Séquence 1 \(6h – 2 séances\) : Le regard sociologique
 
-1. Qu’est-ce que la sociologie et à quoi peut-elle bien servir ?
+1. **Qu’est-ce que la sociologie et à quoi peut-elle bien servir ?**
    1. La sociologie comme voyage dans le monde social
    2. La sociologie comme science : « lutter contre les illusions de la connaissance immédiate » \(Bachelard\)
    3. Cinq ficelles du métier de sociologue pour une exigence de scientificité Terrain & méthodes ; réflexivité ; historicisation ; objectivation & « neutralité axiologique » ; déterminations
    4. Les enjeux démocratiques de la sociologie e\) La sociologie pour un étudiant de l'IFP
-2. Le paysage de la sociologie
+2. **Le paysage de la sociologie**
    1. A propos de la structuration de l’espace de la sociologie
    2. Multilevel analysis
    3. L’individu, le collectif et le « social incorporé »
    4. Pour une sociologie dispositionnelle et relationnelle
 
-Définitions du jour -&gt; Socialisation & habitus  
-Muriel Darmon, La socialisation, Paris, Armand colin, 2006
+Définitions du jour -&gt; **Socialisation** & **habitus**  
+Muriel _Darmon_, La socialisation, Paris, Armand colin, 2006
 
-Bibliographie indicative
+#### Bibliographie indicative
 
 * Myriam Bachir \(dir.\), Les méthodes au concret. Démarches, formes de l’expérience et terrains d’investigation en sciences politiques, Paris, Curapp-Puf, 2000
 * Howard Becker, Les Ficelles du métier, La Découverte, Paris, 2003
