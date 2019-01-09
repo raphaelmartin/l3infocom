@@ -1,4 +1,4 @@
-# Internet et les transformations du marché de l'info
+# Internet et les transformations du marché de l'information
 
 ## Internet et le marché de l'information
 
@@ -41,7 +41,7 @@ Les algorithmes de recommandations font courir le risque d'une balkanisation du 
 * Entre production et réception, un nouveau pôle: le partage.
 * Personnalisation et segmentation du marché \(les infos qui nous engagent\)
 
-### Le modèle économique des "fake news"
+### Illustration avec le modèle économique des "fake news": fausses infos et économie du clic
 
 Notion de "trouble informationnel"  
 C'est un contenu "engageant"  

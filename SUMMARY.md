@@ -4,9 +4,10 @@
 
 ## économie des médias
 
-* [Internet et les transformations du marché de l'info](economie-des-medias/intro-a-leconomie-des-medias.md)
+* [Internet et les transformations du marché de l'information](economie-des-medias/intro-a-leconomie-des-medias.md)
 * [Intro à l'économie des médias](economie-des-medias/intro-a-leconomie-des-medias-1.md)
 * [Les grands concepts de l’économie numérique](economie-des-medias/les-grands-concepts-de-leconomie-numerique.md)
+* [Les modèles économiques de la presse en ligne](economie-des-medias/les-mode-les-economiques-de-la-presse-en-ligne.md)
 * [TD1 — intro](economie-des-medias/td1-intro/README.md)
   * [TD5 — Les marchés des médias à l'ère du numérique](economie-des-medias/td1-intro/td5-les-marches-des-medias-a-lere-du-numerique.md)
   * [TD8 — La télévision](economie-des-medias/td1-intro/td8-la-television.md)
