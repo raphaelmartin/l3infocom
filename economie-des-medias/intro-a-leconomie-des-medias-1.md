@@ -65,3 +65,12 @@ Concept de **convergence** :
 * sur le plan industriel: entre telco / audiovisuel / informatique
 * sur le plan culturel: interactions entre "anciens" et "nouveaux" médias
 
+Au final, Internet modifie en profondeur l’industrie des médias, sur plusieurs aspects:
+
+* production de l’information
+* rencontre de l’offre et de la demande
+* sources de revenu
+* pratiques de consommation
+* processus de valorisation
+* réglementation
+
