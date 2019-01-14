@@ -16,11 +16,13 @@ Internet modifie le marché "cognitif" de l'info, mais il modifie également en 
 5. un statut juridique
 6. une activité sociale
 
+Comment Internet modifie ces éléments?
+
 ### Que produit un média?
 
-* bien exclusif/non exclusif
-* bien rival/non rival
-* bien privé / semi-public / commun / public
+* bien exclusif/non exclusif : réservé à un conso. qui paie / bien dont on peut jouir même sans l'avoir payer \(ex: l'éclairage public\).
+* bien rival/non rival: bien dont l'utilisation par 1 va empêcher les autres d'en profiter / non rival: on peut le consommer de manière collective \(ex: réseau WiFi, émission à la TV\).
+* bien privé / semi-public / commun / public: rival + exclusif \(notre iPhone\) ; exclusif mais non rival ; rival mais non exclusif \(ex: livre à la bibliothèque\).
 * bien sous tutelle
 * bien éphémère
 * bien identitaire
@@ -28,9 +30,9 @@ Internet modifie le marché "cognitif" de l'info, mais il modifie également en 
 
 ### La structuration du marché des médias
 
-* coûts fixes importants
-* coûts variables faibles
-* économies d'échelle
+* coûts fixes importants \(n'évoluent pas en fonction de la quantité de biens à produire\)
+* coûts variables faibles \(évoluent en fonction de la quantité: l'encre\)
+* économies d'échelle: + on produit + on fait baisser les coûts unitaires
 
 Ce qui coûte à un magazine, c'est la distribution \(40% du CA\) et la fabrication \(20%\)
 
@@ -50,13 +52,13 @@ Ce qui coûte à un magazine, c'est la distribution \(40% du CA\) et la fabricat
 
 1. ventes et abo
 2. publicité
-3. aides publiques
+3. aides publiques \(+ audience = + aides\)
 
 mutation du marché de la publicité: la part d'Internet augmente, la part de la presse diminue. **concentration des médias**: rationalisation des coûts, danger pour le pluralisme et l'indépendance des médias
 
 Pour résumer, le marché des médias est...
 
-* un marché biface
+* un marché biface \(1 média a 2 marchés en interaction: rapport média/consommateur + marché publicitaire\)
 * un marché fortement différencié
 * une structuration des coûts caractérisée par de fortes économies d'échelle
 
