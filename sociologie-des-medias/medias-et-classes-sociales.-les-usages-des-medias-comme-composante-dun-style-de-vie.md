@@ -49,14 +49,15 @@ c\) Remarques sur les données d’audience et sur ce qu’internet change et ne
 
 ## Bibliographie indicative
 
-* Will Atkinson, Class, Individualization and Late Modernity: In Search of the Reflexive Worker, Palgrave Macmillan, 2010
-* Jean-Baptiste Comby, « L’orientaton sociale des goûts en matière d’actualité », in Josiane Jouët, Rémy Rieffel \(dir.\), S’informer à l’ère numérique, Rennes, PUR, 2013 \(pagination à venir\)
-* Philippe Coulangeon, Les métamorphoses de la distinction. Inégalités culturelles dans la France d'aujourd'hui, Paris, Grasset, 2011\*
-* Eric Darras, « Le pouvoir de la télévision ? Sornettes, vieilles lunes et nouvelles approches », in Cohen A, Lacroix B, Riutort P \(dir.\), Les formes de l'activité politique. Eléments d'analyse sociologique \(18ème – 20ème siècles\), Paris, Presses Universitaires de France, 2006, p. 466-467.
-* Daniel Gaxie, Le cens caché. Inégalités culturelles et ségrégation politique, Paris, Seuil, 1978.
-* Daniel Gaxie, « Une construction médiatique du spectacle politique ? Réalités et limites de la contribution des médias au développement des perceptions négatives du politique », in Lagroye Jacques \(dir\), La politisation, Paris, Belin, 2003, 325-356.
-* Vincent Goulet, Médias et classes populaires. Les usages ordinaires des informations, Paris, INA Editions, 2010.
-* Bernard Lahire, La culture des individus, dissonances culturelles et distinction de soi, Paris, La Découverte, 2004
-* Gérard Mauger, Claude Poliak et Bernard Pudal, Histoires de lecteurs, réédition, Broissieux, éditions du Croquant, Coll. « Champ social », 2010 \(1ère édition 1999, éditions Nathan\).
-* Jean-Claude Passeron, Claude Grignon, Le Savant et le Populaire. Misérabilisme et populisme en sociologie et en littérature, Paris, Seuil, 1989. Voir également : Claude Grignon, Annie Collovald, Bernard Pudal, Frédéric Sawicki, « Un savant et le populaire. Entretien avec Claude Grignon », Politix, vol. 4, n°13,1991, pp. 35-42 \(online\)\*\*  
+* Will **Atkinson**, _Class, Individualization and Late Modernity: In Search of the Reflexive Worker_, Palgrave Macmillan, 2010
+* Jean-Baptiste **Comby**, « _L’orientaton sociale des goûts en matière d’actualité_ », in Josiane Jouët, Rémy Rieffel \(dir.\), S’informer à l’ère numérique, Rennes, PUR, 2013 \(pagination à venir\)
+* Philippe **Coulangeon**, _Les métamorphoses de la distinction. Inégalités culturelles dans la France d'aujourd'hui_, Paris, Grasset, 2011\*
+* Eric **Darras**, « _Le pouvoir de la télévision ? Sornettes, vieilles lunes et nouvelles approches_ », in Cohen A, Lacroix B, Riutort P \(dir.\), Les formes de l'activité politique. Eléments d'analyse sociologique \(18ème – 20ème siècles\), Paris, Presses Universitaires de France, 2006, p. 466-467.
+* Daniel **Gaxie**, _Le cens caché. Inégalités culturelles et ségrégation politique_, Paris, Seuil, 1978.
+* Daniel **Gaxie**, « _Une construction médiatique du spectacle politique ? Réalités et limites de la contribution des médias au développement des perceptions négatives du politique_ », in Lagroye Jacques \(dir\), La politisation, Paris, Belin, 2003, 325-356.
+* Vincent **Goulet**, _Médias et classes populaires. Les usages ordinaires des informations,_ Paris, INA Editions, 2010.
+* Bernard **Lahire**, _La culture des individus, dissonances culturelles et distinction de soi_, Paris, La Découverte, 2004
+* Gérard **Mauger**, Claude Poliak et Bernard Pudal, _Histoires de lecteurs,_ réédition, Broissieux, éditions du Croquant, Coll. « Champ social », 2010 \(1ère édition 1999, éditions Nathan\).
+* Jean-Claude **Passeron**, Claude Grignon, _Le Savant et le Populaire. Misérabilisme et populisme en sociologie et en littérature_, Paris, Seuil, 1989.
+* Voir également : Claude **Grignon**, Annie **Collovald**, Bernard **Pudal**, Frédéric **Sawicki**, « _Un savant et le populaire. Entretien avec Claude Grignon_ », Politix, vol. 4, n°13,1991, pp. 35-42 \(online\)\*\*  
 
