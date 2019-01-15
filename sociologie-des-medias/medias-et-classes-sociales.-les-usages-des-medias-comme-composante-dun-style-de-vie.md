@@ -20,25 +20,25 @@
 
 ### Les études de « réception »
 
-* Richard Hoggart, The Uses of Literacy : Aspects of Working-Class Life, 1957 ; traduit en 1970 aux éditions de Minuit sous le titre : La culture du pauvre.\*
-* David Morley, The “Nationwide” Audience: Structure and Decoding, 1980
-* Greg Philo, Seeing and Believing. The Influence of Television, 1990
-* William Gamson, Talking Politics, Cambridge, Cambridge University Press, 1992; pour une présentation critique de ce travail, voir: NEVEU \(Erik\), « Ce que parler politique veut dire », Revue française de science politique, 1994, vol.44, n°5, p. 934-939.
-* Elihu Katz&Tamar Liebes, The export of meaning. Cross cultural readings of Dallas, 1993
-* Pierre Bourdieu et Jean-Claude Passeron, « Sociologues des mythologies et mythologies des sociologues », Les Temps Modernes, 1963
-* Janice Radway, Reading the romance, 1984
-* Michel De Certeau, L’invention du quotidien, 1. Arts de Faire, 1980
-* Dominique Pasquier, La culture des sentiments. L’expérience télévisuelle des adolescents, 1999
+* Richard **Hoggart**, _The Uses of Literacy : Aspects of Working-Class Life_, 1957 ; traduit en 1970 aux éditions de Minuit sous le titre : La culture du pauvre.\*
+* David **Morley**, _The “Nationwide” Audience: Structure and Decoding_, 1980
+* Greg **Philo**, _Seeing and Believing. The Influence of Television,_ 1990
+* William **Gamson**, _Talking Politics_, Cambridge, Cambridge University Press, 1992; pour une présentation critique de ce travail, voir: NEVEU \(Erik\), « Ce que parler politique veut dire », Revue française de science politique, 1994, vol.44, n°5, p. 934-939.
+* Elihu **Katz** & Tamar **Liebes**, _The export of meaning. Cross cultural readings of Dallas_, 1993
+* Pierre **Bourdieu** et Jean-Claude **Passeron**, « _Sociologues des mythologies et mythologies des sociologues_ », Les Temps Modernes, 1963
+* Janice **Radway**, _Reading the romance_, 1984
+* Michel **De Certeau**, _L’invention du quotidien, 1. Arts de Faire,_ 1980
+* Dominique **Pasquier**, _La culture des sentiments. L’expérience télévisuelle des adolescents_, 1999
 
 ### Sortir de la problématique de l’effet des médias sur les « gens » en inversant et en sociologisant le questionnement 
 
 -&gt; L’indissociabilité du processus de communication
 
-Définition du jour: Classes sociales
+Définition du jour: **Classes sociales**
 
-* Serge Bosc, Stratification et classes sociales. La société française en mutation, Paris, Armand Colin, 2013 \(7ème édition\)
-* Rémi Lenoir, « Espace social et classes sociales chez Pierre Bourdieu », Sociétés et représentations, 2004, vol. 1, n°17
-* Louis Chauvel, « Le retour des classes sociales ? », Revue de l’OFCE, n°79, 2001, p. 317
+* Serge **Bosc**, _Stratification et classes sociales. La société française en mutation_, Paris, Armand Colin, 2013 \(7ème édition\)
+* Rémi **Lenoir**, « _Espace social et classes sociales chez Pierre Bourdieu_ », Sociétés et représentations, 2004, vol. 1, n°17
+* Louis **Chauvel**, « _Le retour des classes sociales ?_ », Revue de l’OFCE, n°79, 2001, p. 317
 
 ## Légitimités symboliques, usages des médias d’information et styles de vie
 
