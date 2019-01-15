@@ -4,9 +4,9 @@
 
 ### L'ouverture a de nouveaux producteurs
 
-Internet a permis une ouverture immense du marché de l'info =&gt; émergence du web 2.0 \(web dynamique qui favorise les UGC\) avec les blogs, réseaux sociaux, médias alternatifs : irruption de "sans voix" dans le débat public.
+Internet a permis une **ouverture immense du marché de l'info** =&gt; émergence du **web 2.0** \(web dynamique qui favorise les UGC\) avec les blogs, réseaux sociaux, médias alternatifs : **irruption de "sans voix"** dans le débat public.
 
-Pq? Car comme les technologies ne sont jamais neutres, Internet repose sur une architecture d'ouverture et de pluralisme \(médias de masse: modèle "un à tous" ; Internet: modèle en réseaux "tous à tous"\).
+Pq? Car comme les **technologies ne sont jamais neutres**, Internet repose sur une architecture d'**ouverture et de pluralisme** \(médias de masse: modèle "un à tous" ; Internet: modèle en réseaux "**tous à tous**"\).
 
 ### La fin des gatekeepers tradis...mais pas du gatekeeping
 
@@ -14,7 +14,7 @@ Internet a provoqué une baisse de l'influence des gatekeepers \(journalistes, �
 
 ### La "libération des subjectivités" \(Cardon, 2010\)
 
-Sur Internet, tout le monde peut faire entendre sa voix \(pluralisme radical\) contrairement aux médias tradis qui gomment toute diversité/opinion minoritaire car basé sur le principe majoritaire \(- vous êtes dans l'opinion majo, moins vous êtes légitimes\).
+Sur Internet, tout le monde peut faire entendre sa voix \(**pluralisme radical**\) contrairement aux médias tradis qui gomment toute diversité/opinion minoritaire car basé sur **le principe majoritaire** \(- vous êtes dans l'opinion majo, moins vous êtes légitimes\).
 
 ### L'émergence des « infomédiaires »
 
@@ -22,7 +22,7 @@ Organise la rencontre entre: offre abondante / demande individualisée. Médias 
 
 ### La redistribution des pouvoirs de régulation
 
-Avec les médias tradis, bien que la démocratie soit présente, l'Etat conserve des leviers d'influences : allocation des canaux de diffusion, financement par les aides, réglementation stricte sur la diffusion.
+Avec les médias tradis, bien que la démocratie soit présente, l'Etat conserve des **leviers d'influences** : allocation des canaux de diffusion, financement par les aides, réglementation stricte sur la diffusion.
 
 Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, souvent hébergé dans des territoires qui ne répondent pas du droit FR.
 
@@ -30,20 +30,20 @@ Relations conflictuelles entre pouv. publics/médias/GAFA
 
 ### Le rôle des internautes dans la diffusion des infos
 
-Sur Internet, en plus des pôles de production et de réception, il y a le pôle du partage, notamment sur les R.S.  
-Les algorithmes de recommandations font courir le risque d'une balkanisation du débat public en enfermant chacun dans sa bulle idéologique
+Sur Internet, en plus des pôles de production et de réception, il y a le **pôle du partage**, notamment sur les R.S.  
+Les algorithmes de recommandations font courir le risque d'une **balkanisation du débat public** en enfermant chacun dans sa **bulle idéologique**
 
 ### Résumé
 
-* Ouverture à de nouveaux producteurs: un marché pluraliste
-* Fin des gatekeepers tradis \(journalistes, éditeurs, programmateurs\), apparition de nouveaux intermédiaires \(Google\).
-* Apparition de nouveaux intermédiaires \(moteurs de recherche, réseaux sociaux, etc.\)
-* Diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\)
-* La perte d'influence des pouvoirs publics sur la régulation de l'info. Nouvelles lois dangereuses \(loi fake news\), risque de délégation des pouvoirs de censure.
-* Entre production et réception, un nouveau pôle: le partage.
-* Personnalisation et segmentation du marché \(les infos qui nous engagent\)
+* Ouverture à de **nouveaux producteurs**: un marché pluraliste
+* Fin des **gatekeepers** tradis \(journalistes, éditeurs, programmateurs\) -&gt; apparition de nouveaux intermédiaires \(moteurs de recherche, R.S\)
+* Diversité des registres de prise de parole et des "**régimes de véridiction**" \(_Latour_, 2012\)
+* La perte d'influence des pouvoirs publics sur la **régulation de l'info**. Nouvelles lois potentiellement dangereuses \(loi fake news\), risque de **délégation des pouvoirs de censure**.
+* Entre production et réception, **un nouveau pôle: le partage**.
+* **Personnalisation** et **segmentation** du marché \(les infos qui nous engagent\)
 
-Aux US: idéologie LILI \(=libérale libertaire\) qui consacre la circulation libre de l'information. Propagande djihadiste 2015: tournant où les plateformes se sont mises à censurer sans que les états interviennent.
+Aux US: **idéologie LILI** \(=libérale libertaire\) qui consacre la circulation libre de l'information.  
+**Propagande djihadiste 2015**: tournant où les plateformes se sont mises à censurer sans que les états interviennent.
 
 ### Illustration avec le modèle économique des "fake news": fausses infos et économie du clic
 
@@ -69,12 +69,12 @@ Facebook impose une bulle de filtre, et censure les fake news, mais quelle en es
 
 ### un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
 
-= c'est l'espace intellectuel au sein duquel se diffuse les produits qui informent notre vision du monde.  
-Google c'est un supermarché avec des étalages, n'importe qui pouvant produire son propre produit cognitif \(sites\).
+= c'est **l'espace intellectuel** au sein duquel se diffuse les produits qui informent notre vision du monde.  
+Google c'est un supermarché avec des étalages, n'importe qui pouvant produire son propre **produit cognitif** \(sites\).
 
-Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes. Sur les R.S, notion d'engagement. Sur les moteurs comme Google, notion de vote. Evaluation collective de l'info, c'est les internautes qui font et défont la visibilité.
+Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes. Sur les R.S, notion d'**engagement**. Sur les moteurs comme Google, notion de **vote**. Evaluation collective de l'info, **c'est les internautes qui font et défont la visibilité**.
 
-Présence disproportionnée de groupes sur Internet par rapport à ce qu'ils sont vraiment/médias de masse. Exemple du FN qui se reporte sur Internet.
+Présence disproportionnée de groupes sur Internet par rapport à ce qu'ils sont vraiment/médias de masse. Exemple du FN qui se **reporte sur Internet**.
 
 * Google et les produits cognitifs
 * les ressorts psychologiques de la production d'info en ligne
