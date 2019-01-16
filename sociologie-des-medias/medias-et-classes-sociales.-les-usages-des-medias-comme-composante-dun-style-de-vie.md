@@ -16,7 +16,7 @@ Dans ce contexte d'**éveil du peuple**, les élites vont développer un fantasm
 
 * Gustave **LE BON**, _La psychologie des foules_, 1895
 
-La **foule** repose sur bases fondamentalement **IRRATIONNELLES** \(impulsive, crédule, soumise à la suggestion\). Les médias de masse **manipule** cette foule en créant un **lien social symbolique** entre les récepteurs. Sa mise en mouvement est liée à un **processus IMITATIF** jouant sur le **registre des émotions**/pulsions primaires. Pour _LE BON_, la foule acquiert un **sentiment de puissance notamment par son ANONYMAT.** Il faut donc des **MENEURS DE FOULES**, qui invitent l’individu à rejoindre les autres et à abdiquer sa faculté rationnelle d’agir.
+La **foule** repose sur bases fondamentalement **IRRATIONNELLES** \(impulsive, crédule, soumise à la suggestion\). Les médias de masse **manipulent** cette foule en créant un **lien social symbolique** entre les récepteurs. Elle se met en mouvement par un **processus IMITATIF** jouant sur le **registre des émotions**/pulsions primaires. Pour _LE BON_, la foule acquiert un **sentiment de puissance notamment par son ANONYMAT.** Il faut donc des **MENEURS DE FOULES**, qui invitent l’individu à rejoindre les autres et à abdiquer sa faculté rationnelle d’agir.
 
 > « Si les électeurs, composés surtout d'ouvriers et de paysans, choisissent si rarement un des leurs pour les représenter, c'est que les personnalités sorties de leurs rangs n'ont pour eux aucun prestige. » — G. LE BON, Psychologie des foules, chap. IV\).
 
@@ -34,6 +34,13 @@ Dénonce les techniques de propagande nazie du ministre nazie, Goebbels. La **pr
 Modèle du stimuli-réponse: les médias endorment la foule en affaiblissant nos capacités de réflexion. Seul les gens éduqués seraient épargnés partiellement, mais pour LE BON, la majorité de la population fait partie des "violables" \(=ceux qu'une propagande efficace peut réduire à un état de robot vivant\).
 
 * Paul **Lazarsfeld**, Bernard **Berelson**, Hazel **Gaudet**, _The People’s choice. How the voter makes up his mind in a presidential campaign_ \(1ère édition 1944\)
+
+Une des grandes études financés par l'Etat-major. Paradoxalement, leurs recherches vont conduire à invalider la thèse du paradigme médiacratique. Comment? En inversant la problématique politique : plus "ce que les médias font aux gens" mais "ce que les gens font des médias".
+
+Thèse ⟹ l'inertie des opinions et des votes des gens.
+
+En menant des entretiens et en analysant la campagne présidentielle américaine de 1940, ils montrent que les gens ne changent pas d'opinion en fonction de la médiatisation de la campagne \(seulement 8%\). Pourquoi? Parce que le comportement électoral est un fait social, les individus appartiennent à des groupes primaires d'appartenance, le candidat qui les faveurs de l'entourage proche exerce une influence bien plus forte que celle des médias. Paradoxalement, ils observent que les médias ont une fonction de rappel d'appartenance à ce groupe, à rassurer et consolider les identités.
+
 * Bernard **Berelson**, Paul **Lazarsfeld** & William **McPhee**, _Voting. A study of Opinion Formation in a Presidential Campaign_, 1954.
 * Elihu **Katz**, Paul **Lazarsfeld**, _Personal Influence. The part played by people in the flow of mass communications,_ \(1955\)
 * **Blumer & Katz**, _The uses of mass communications: Current perspectives on gratifications research_, 1974
