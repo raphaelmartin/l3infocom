@@ -49,9 +49,28 @@ Thèse ⟹ Modèle des **effets limités/indirects des médias**: les groupes pr
 
 Les personnes qui appartiennent au même groupe social ont un _habitus_ commun, des **manières de voir** le monde convergentes &gt; tendance alors à interpréter un message à partir des **normes** sociales, morales communes. Rôle de **médiateur** du groupe: n'accorder de l'attention qu'aux messages compatibles avec notre conception du monde, occulter ce qui dérange. Influence du groupe sur 3 aspects : **le positionnement politique** ; **l'échelle de légitimité des médias** \(quels médias il faut consommer, lesquels fuir\) ; le **degré d'exposition** \(certains groupes consomment plus de médias que d'autres, exerçant donc une influence sur notre conso. individuelle\).
 
-L'exposition au message se fait alors sélective : on ne retient que les messages allant dans notre sens, notre attention se fixe sur ce qui renforce nos opinions préalables.
+L'exposition au message se fait alors **sélective** : on ne retient que les messages allant dans notre sens, notre attention se fixe sur ce qui renforce nos **opinions préalables**. Les chercheurs concluent donc sur un **second paradoxe**: plutôt que de changer les opinions, les médias **renforcent** les croyances établies.
 
 * Elihu **Katz**, Paul **Lazarsfeld**, _Personal Influence. The part played by people in the flow of mass communications,_ \(1955\)
+
+> « Les idées coulent souvent de la radio et de l'imprimé vers les leaders d'opinion, et des leaders d’opinion vers les segments les moins actifs de la population » — LAZARSFELD/KATZ
+
+L'interprétation des messages est à comprendre par les **relations interpersonnelles**, la **conversation** noués entre les individus.
+
+![Le mod&#xE8;le du &quot;Two Step Flow&quot;](../.gitbook/assets/image.png)
+
+Concept du **leader d'opinion**: un individu qui a une crédibilité au sein d'un groupe, qui est estimé, écouté. Il incarne les valeurs du groupe \(**conformité**\) en jouant le rôle de _gatekeeper_ entre les médias et les membres de son groupe \(transmet ou rejette l'information à communiquer\).
+
+L'information passe par **2 étapes**. D'abord, les leaders d'opinions, ceux qui s'exposent le plus aux médias au sein d'un groupe, reçoivent l'information. Ensuite, ces leaders d'opinions relaient **leur interprétation personnelle** de cette information aux membres du groupe. Les messages des médias sont donc eux-même médiés avant d'arriver au récepteur.
+
+**Bilan de la série des 3 études**
+
+* Poids du groupe d'appartenance au conformisme via le leader d'opinion
+* L'exposition aux messages est sélective
+* Effet des médias de renforcement des opinions préexistantes
+
+
+
 * **Blumer & Katz**, _The uses of mass communications: Current perspectives on gratifications research_, 1974
 * **Bernard Cecil Cohen**, _The Press and Foreign Policy_, Princeton, Princeton University Press, 1963
 * **McCombs \(M.\) and Shaw** \(D. L.\), _«The Agenda-Setting Fonction of Mass Media»_, Public Opinion Quaterly, 36, 1972, pp. 176-187
