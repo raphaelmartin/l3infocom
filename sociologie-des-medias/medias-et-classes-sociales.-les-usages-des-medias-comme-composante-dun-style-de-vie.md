@@ -31,19 +31,25 @@ Ces premières théories vont attirer l'**Etat-major** américain qui décide da
 
 Dénonce les techniques de propagande nazie du ministre nazie, Goebbels. La **propagande repose sur des REFLEXES CONDITIONNES** = GUIDE LES PULSIONS DE L’INDIVIDU DANS LE SENS QU’ON A CHOISI POUR LUI. Les individus **ATOMISES\(séparés\) SONT UNE PROIE + FACILE POUR LES MASSES-MEDIAS** : ils ont perdu leur cadre de référence habituel, donc moins résistants.
 
-Modèle du stimuli-réponse: les médias endorment la foule en affaiblissant nos capacités de réflexion. Seul les gens éduqués seraient épargnés partiellement, mais pour LE BON, la majorité de la population fait partie des "violables" \(=ceux qu'une propagande efficace peut réduire à un état de robot vivant\).
+Modèle du **stimuli-réponse**: les médias endorment la foule en affaiblissant nos **capacités** de réflexion. Seul les gens éduqués seraient épargnés partiellement, mais pour LE BON, la majorité de la population fait partie des "**violables**" \(=ceux qu'une propagande efficace peut réduire à un état de robot vivant\).
 
 * Paul **Lazarsfeld**, Bernard **Berelson**, Hazel **Gaudet**, _The People’s choice. How the voter makes up his mind in a presidential campaign_ \(1ère édition 1944\)
 
-Une des grandes études financés par l'Etat-major. Paradoxalement, leurs recherches vont conduire à invalider la thèse du paradigme médiacratique. Comment? En inversant la problématique politique : plus "ce que les médias font aux gens" mais "ce que les gens font des médias".
+Une des grandes études financés par l'Etat-major. Mais leurs recherches vont conduire à **invalider la thèse du paradigme médiacratique**. Comment? En inversant la problématique politique. Plus "ce que les médias font aux gens" mais : "ce que les gens font des médias".
 
-Thèse ⟹ l'inertie des opinions et du vote des gens.
+Thèse ⟹ l'inertie des opinions et du vote des gens face à la communication médiatique
 
-En menant des entretiens et en analysant la campagne présidentielle américaine de 1940, ils montrent que les gens ne changent pas d'opinion en fonction de la médiatisation de la campagne \(seulement 8%\). Pourquoi? Parce que le comportement électoral est un fait social, les individus appartiennent à des groupes primaires d'appartenance: le candidat qui a les faveurs de l'entourage proche exerce une influence bien plus forte que celle exercée par les médias. Ce n'est ainsi pas uniquement notre opinion qu'il faut mesurer car le vote est une expérience de groupe. Paradoxalement, ils observent que les médias ont une fonction de rappel d'appartenance à ce groupe, à rassurer et à consolider leurs cohésions.
+En menant des entretiens et en analysant la campagne présidentielle américaine de 1940, ils montrent que **les gens ne changent pas d'opinion en fonction de la médiatisation** de la campagne \(seulement 8%\). Pourquoi? Parce que le comportement électoral est un **fait social**, les individus appartiennent à des **groupes primaires d'appartenance**: le candidat qui a les faveurs de l'entourage proche exerce une influence bien plus forte que celle exercée par les médias. Ce n'est ainsi pas uniquement notre opinion qu'il faut mesurer car le vote est une **expérience de groupe**. Paradoxalement, ils observent que les médias ont une fonction de **rappel d'appartenance** à ce groupe, à rassurer et à consolider sa cohésion.
 
 * Bernard **Berelson**, Paul **Lazarsfeld** & William **McPhee**, _Voting. A study of Opinion Formation in a Presidential Campaign_, 1954.
 
-2ème étude de la série visant à prolonger les premiers résultats.
+2ème étude de la série visant à poursuivre les premiers résultats: **comment expliquer cette inertie?**
+
+Thèse ⟹ Modèle des **effets limités/indirects des médias**: les groupes primaires d'appartenance tamisent, sélectionnent l'information consommée selon leurs propres caractéristiques sociales.
+
+Les personnes qui appartiennent au même groupe social ont un _habitus_ commun, des **manières de voir** le monde convergentes &gt; tendance alors à interpréter un message à partir des **normes** sociales, morales communes. Rôle de **médiateur** du groupe: n'accorder de l'attention qu'aux messages compatibles avec notre conception du monde, occulter ce qui dérange. Influence du groupe sur 3 aspects : **le positionnement politique** ; **l'échelle de légitimité des médias** \(quels médias il faut consommer, lesquels fuir\) ; le **degré d'exposition** \(certains groupes consomment plus de médias que d'autres, exerçant donc une influence sur notre conso. individuelle\).
+
+L'exposition au message se fait alors sélective : on ne retient que les messages allant dans notre sens, notre attention se fixe sur ce qui renforce nos opinions préalables.
 
 * Elihu **Katz**, Paul **Lazarsfeld**, _Personal Influence. The part played by people in the flow of mass communications,_ \(1955\)
 * **Blumer & Katz**, _The uses of mass communications: Current perspectives on gratifications research_, 1974
