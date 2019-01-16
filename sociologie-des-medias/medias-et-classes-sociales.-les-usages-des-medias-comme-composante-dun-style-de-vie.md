@@ -1,13 +1,38 @@
 # Médias et classes sociales. Les usages des médias comme composante d'un style de vie
 
+La **dimension sociale** des médias: qui consomme quoi? que font les gens **concrètement** avec les médias? ⟹ déconstruire l'idée que les médias peuvent **influencer la société via les comportements individuels**. On passe ainsi du **paradigme des effets** \(socio déterministe, PDV des dominants\) **aux usages** des médias \(socio de la réception, PDV des dominés\). En France, les chercheurs ont longtemps délaissé le 2nd paradigme pour se focaliser sur le pôle de la production \(discours et pratiques des producteurs, journalistes\).
+
 ## Des effets aux usages des médias
+
+Comment les médias influencent \(ou pas\) les audiences?
 
 ### Variations médiacratiques autour de la problématique de l’effet des médias
 
-* G. **Le Bon**, _La psychologie des foules_, 1895
+Médiacratie \(=de _média_ et _kratos_ « pouvoir » « souveraineté » en grec, désigne une organisation sociale dominée par les médias\). Une **croyance** qui s'est construite au fil du temps.
+
+Pour quelles **raisons**? ⟹ depuis début 19ème, **transformations structurelles** de la société. Forte industrialisation, exode rural, apprentissage de la démocratie, montée en puissance d'une presse populaire et libre, accélération de la division sociale du travail... On passe d'une société à solidarité **mécanique** à une société à solidarité **organique** \(_DURKHEIM_\) ⟹ **individualisation**.
+
+Dans ce contexte d'**éveil du peuple**, les élites vont développer un fantasme de **la manipulation des foules** passives subissant le pouvoir tout puissant des médias.
+
+* Gustave **LE BON**, _La psychologie des foules_, 1895
+
+La **foule** repose sur bases fondamentalement **IRRATIONNELLES** \(impulsive, crédule, soumise à la suggestion\). Les médias de masse **manipule** cette foule en créant un **lien social symbolique** entre les récepteurs. Sa mise en mouvement est liée à un **processus IMITATIF** jouant sur le **registre des émotions**/pulsions primaires. Pour _LE BON_, la foule acquiert un **sentiment de puissance notamment par son ANONYMAT.** Il faut donc des **MENEURS DE FOULES**, qui invitent l’individu à rejoindre les autres et à abdiquer sa faculté rationnelle d’agir.
+
+> « Si les électeurs, composés surtout d'ouvriers et de paysans, choisissent si rarement un des leurs pour les représenter, c'est que les personnalités sorties de leurs rangs n'ont pour eux aucun prestige. » — G. LE BON, Psychologie des foules, chap. IV\).
+
 * Scipio **Sighele**, _La foule criminelle_, 1891
 * Harold **Lasswell**, _Propaganda in the world war_, 1927
+
+C'est lui qui formalise ce courant d'idée par un modèle structuraliste : la métaphore de la seringue hypodermique \(incarne la théorie des effets puissants des médias\). Les 5 étapes \(qui? dit quoi? à qui? par quel canal? avec quels effets?\).
+
+Ces premières théories vont attirer l'**Etat-major** américain qui décide dans les années 30' de **financer cette recherche** par intérêt \(contexte de **guerre psychologique**, on cherche à comprendre comment la propagande agit sur les foules\) ⟹ c'est donc l'enjeu **politique** qui impose sa problématique au monde **académique** en incitant financièrement à voir les médias que par le prisme de la toute-puissance.
+
 * Serge **Tchakotine,** _Le viol des foules par la propagande politique_, 1939
+
+Dénonce les techniques de propagande nazie du ministre nazie, Goebbels. La **propagande repose sur des REFLEXES CONDITIONNES** = GUIDE LES PULSIONS DE L’INDIVIDU DANS LE SENS QU’ON A CHOISI POUR LUI. Les individus **ATOMISES\(séparés\) SONT UNE PROIE + FACILE POUR LES MASSES-MEDIAS** : ils ont perdu leur cadre de référence habituel, donc moins résistants.
+
+Modèle du stimuli-réponse: les médias endorment la foule en affaiblissant nos capacités de réflexion. Seul les gens éduqués seraient épargnés partiellement, mais pour LE BON, la majorité de la population fait partie des "violables" \(=ceux qu'une propagande efficace peut réduire à un état de robot vivant\).
+
 * Paul **Lazarsfeld**, Bernard **Berelson**, Hazel **Gaudet**, _The People’s choice. How the voter makes up his mind in a presidential campaign_ \(1ère édition 1944\)
 * Bernard **Berelson**, Paul **Lazarsfeld** & William **McPhee**, _Voting. A study of Opinion Formation in a Presidential Campaign_, 1954.
 * Elihu **Katz**, Paul **Lazarsfeld**, _Personal Influence. The part played by people in the flow of mass communications,_ \(1955\)
