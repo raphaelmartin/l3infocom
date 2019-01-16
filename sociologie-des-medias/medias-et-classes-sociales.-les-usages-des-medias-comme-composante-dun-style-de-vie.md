@@ -65,11 +65,9 @@ L'information passe par **2 étapes**. D'abord, les leaders d'opinions, ceux qui
 
 **Bilan de la série des 3 études**
 
-* Poids du groupe d'appartenance au conformisme via le leader d'opinion
-* L'exposition aux messages est sélective
-* Effet des médias de renforcement des opinions préexistantes
+Poids du groupe d'appartenance au conformisme via le leader d'opinion → exposition aux messages est sélective → renforcement des opinions préexistantes.
 
-
+> « De plus, le consommateur est détaché du seul moment de la réception des messages, puisqu'il est saisi à la fois en amont \(par son groupe d'appartenance, le travail des leaders d'opinion\) et en aval \(par les conversations\) de son exposition. » — LE GRIGNOU, _Du côté du public_.
 
 * **Blumer & Katz**, _The uses of mass communications: Current perspectives on gratifications research_, 1974
 * **Bernard Cecil Cohen**, _The Press and Foreign Policy_, Princeton, Princeton University Press, 1963
