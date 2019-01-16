@@ -37,11 +37,14 @@ Modèle du stimuli-réponse: les médias endorment la foule en affaiblissant nos
 
 Une des grandes études financés par l'Etat-major. Paradoxalement, leurs recherches vont conduire à invalider la thèse du paradigme médiacratique. Comment? En inversant la problématique politique : plus "ce que les médias font aux gens" mais "ce que les gens font des médias".
 
-Thèse ⟹ l'inertie des opinions et des votes des gens.
+Thèse ⟹ l'inertie des opinions et du vote des gens.
 
-En menant des entretiens et en analysant la campagne présidentielle américaine de 1940, ils montrent que les gens ne changent pas d'opinion en fonction de la médiatisation de la campagne \(seulement 8%\). Pourquoi? Parce que le comportement électoral est un fait social, les individus appartiennent à des groupes primaires d'appartenance, le candidat qui les faveurs de l'entourage proche exerce une influence bien plus forte que celle des médias. Paradoxalement, ils observent que les médias ont une fonction de rappel d'appartenance à ce groupe, à rassurer et consolider les identités.
+En menant des entretiens et en analysant la campagne présidentielle américaine de 1940, ils montrent que les gens ne changent pas d'opinion en fonction de la médiatisation de la campagne \(seulement 8%\). Pourquoi? Parce que le comportement électoral est un fait social, les individus appartiennent à des groupes primaires d'appartenance: le candidat qui a les faveurs de l'entourage proche exerce une influence bien plus forte que celle exercée par les médias. Ce n'est ainsi pas uniquement notre opinion qu'il faut mesurer car le vote est une expérience de groupe. Paradoxalement, ils observent que les médias ont une fonction de rappel d'appartenance à ce groupe, à rassurer et à consolider leurs cohésions.
 
 * Bernard **Berelson**, Paul **Lazarsfeld** & William **McPhee**, _Voting. A study of Opinion Formation in a Presidential Campaign_, 1954.
+
+2ème étude de la série visant à prolonger les premiers résultats.
+
 * Elihu **Katz**, Paul **Lazarsfeld**, _Personal Influence. The part played by people in the flow of mass communications,_ \(1955\)
 * **Blumer & Katz**, _The uses of mass communications: Current perspectives on gratifications research_, 1974
 * **Bernard Cecil Cohen**, _The Press and Foreign Policy_, Princeton, Princeton University Press, 1963
