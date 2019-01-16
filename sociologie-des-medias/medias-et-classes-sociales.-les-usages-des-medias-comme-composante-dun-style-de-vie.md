@@ -23,7 +23,7 @@ La **foule** repose sur bases fondamentalement **IRRATIONNELLES** \(impulsive, c
 * Scipio **Sighele**, _La foule criminelle_, 1891
 * Harold **Lasswell**, _Propaganda in the world war_, 1927
 
-C'est lui qui formalise ce courant d'idée par un modèle structuraliste : la métaphore de la seringue hypodermique \(incarne la théorie des effets puissants des médias\). Les 5 étapes \(qui? dit quoi? à qui? par quel canal? avec quels effets?\).
+C'est lui qui formalise ce courant d'idée par un modèle structuraliste : la **métaphore de la seringue hypodermique** \(incarne la théorie des effets puissants des médias\). Les 5 étapes \(qui? dit quoi? à qui? par quel canal? avec quels effets?\).
 
 Ces premières théories vont attirer l'**Etat-major** américain qui décide dans les années 30' de **financer cette recherche** par intérêt \(contexte de **guerre psychologique**, on cherche à comprendre comment la propagande agit sur les foules\) ⟹ c'est donc l'enjeu **politique** qui impose sa problématique au monde **académique** en incitant financièrement à voir les médias que par le prisme de la toute-puissance.
 
