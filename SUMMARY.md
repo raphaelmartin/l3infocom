@@ -22,6 +22,7 @@
   * [TD3 — Entretiens ; enquête par questionnaire](sociologie-des-medias/le-regard-sociologique/td3-entretiens-enquete-par-questionnaire.md)
   * [TD4 — L’ethnographie ; l’analyse de contenu](sociologie-des-medias/le-regard-sociologique/td4-lethnographie-et-lanalyse-de-contenu.md)
 * [Médias et classes sociales. Les usages des médias comme composante d'un style de vie](sociologie-des-medias/medias-et-classes-sociales.-les-usages-des-medias-comme-composante-dun-style-de-vie.md)
+* [Fiches de lecture \(obs Louvre\)](sociologie-des-medias/fiches-de-lecture-obs-louvre.md)
 
 ## histoire des médias
 

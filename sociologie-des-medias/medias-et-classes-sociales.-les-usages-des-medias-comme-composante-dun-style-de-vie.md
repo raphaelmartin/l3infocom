@@ -1,7 +1,5 @@
 # Médias et classes sociales. Les usages des médias comme composante d'un style de vie
 
-
-
 La dimension sociale des médias: qui consomme quoi? que font les gens concrètement avec les médias? ⟹ déconstruire l'idée que les médias peuvent influencer la société via les comportements individuels. On passe ainsi du paradigme des effets \(socio déterministe, PDV des dominants\) aux usages des médias \(socio de la réception, PDV des dominés\). En France, les chercheurs ont longtemps délaissé le 2nd paradigme pour se focaliser sur le pôle de la production \(discours et pratiques des producteurs, journalistes\).
 
 ## Des effets aux usages des médias <a id="h.7qs5xfzi3uq7"></a>
