@@ -14,5 +14,7 @@ _PRIEUR_ A./_SAVAGE_ M. — « 15. Les formes émergentes de capital culturel »
 
 _COUILLARD_ N./_FREITAS-EKUE_ F. — « "It’s History in the making!". Quand Beyoncé et Jay Z s’exposent au Louvre »  \(billet du carnet de recherche « Penser les publics dans la culture et le patrimoine », 03/12/2018\).
 
+_DAGIRAL_ E./_MARTIN_ O. — « Liens sociaux numériques. Pour une sociologie plus soucieuse des techniques », Sociologie \[Online\], N° 1, vol. 8 \| 2017, Online since 19 May 2017.
 
+_PASTINELLI_ M. — « Pour en finir avec l'ethnographie du virtuel ! : Des enjeux méthodologiques de l'enquête de terrain en ligne. » Anthropologie et Sociétés, volume 35, numéro 1-2, 2011, p. 35–52.
 
