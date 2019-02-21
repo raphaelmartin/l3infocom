@@ -16,8 +16,7 @@
 ## sociologie des médias
 
 * [biblio générale](sociologie-des-medias/plan.md)
-* [fiches de lecture](sociologie-des-medias/fiches-de-lecture/README.md)
-  * [Untitled](sociologie-des-medias/fiches-de-lecture/couillard.md)
+* [fiches de lecture](sociologie-des-medias/couillard.md)
 * [Le regard sociologique](sociologie-des-medias/le-regard-sociologique/README.md)
   * [TD1 — Intro : présentation du cours et de la thématique de recherche](sociologie-des-medias/le-regard-sociologique/td1-intro-presentation-du-cours-et-de-la-thematique-de-recherche.md)
   * [TD2 — La construction de l’objet de recherche](sociologie-des-medias/le-regard-sociologique/td2-la-construction-de-lobjet-de-recherche.md)
